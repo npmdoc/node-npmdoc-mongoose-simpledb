@@ -1,4 +1,7 @@
-# api documentation for  [mongoose-simpledb (v5.1.0)](https://github.com/codetunnel/mongoose-simpledb#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoose-simpledb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoose-simpledb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoose-simpledb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoose-simpledb)
+# npmdoc-mongoose-simpledb
+
+#### basic api documentation for  [mongoose-simpledb (v5.1.0)](https://github.com/codetunnel/mongoose-simpledb#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoose-simpledb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoose-simpledb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoose-simpledb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoose-simpledb)
+
 #### Simple API for defining mongoose dbmodels and loading them into a single object for easy access.
 
 [![NPM](https://nodei.co/npm/mongoose-simpledb.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongoose-simpledb)
@@ -65,7 +68,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "5.1.0"
+    "version": "5.1.0",
+    "bin": {}
 }
 ```
 
